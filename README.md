@@ -27,3 +27,7 @@ Check out the project here: [YouTube Searcher](https://dejan-krstic.github.io/yo
 
 ### Package Manager: 
 - Yarn
+
+## Screenshot:
+
+![youtubesearcher](https://user-images.githubusercontent.com/36072848/39608813-72ca9992-4f44-11e8-8072-50e228334f5c.PNG)
