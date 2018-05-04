@@ -3,8 +3,8 @@ import { LOADER_URL } from '../constants/constants'
 
 const VideoMain = ({ video, autoplay }) => {
     if (!video) {
-        return <img src={LOADER_URL} alt='loader' />
-    }
+        return  <img src={LOADER_URL} alt='loader' id="loader" width="100%" height="60%" className='col-md-8 offset-2'/>
+}
 
     const url = `https://www.youtube.com/embed/${video.id}${autoplay}`
 
